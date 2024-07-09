@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955720840741",
+    "project_id": "civic-shelf",
+    "storage_bucket": "civic-shelf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955720840741:android:f8f12439f741b39a96b1cc",
+        "android_client_info": {
+          "package_name": "com.example.civic_shelf_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qDA3NSgTBoFxxnTXwuhRgOHuqDIWU-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

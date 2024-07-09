@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDFtRfVdJBjFVL3tY8xJ0YSybtgf8w-sDk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>955720840741</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.civicShelfMobileApp</string>
+	<key>PROJECT_ID</key>
+	<string>civic-shelf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>civic-shelf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:955720840741:ios:864ae7a104fdef4e96b1cc</string>
+</dict>
+</plist>
